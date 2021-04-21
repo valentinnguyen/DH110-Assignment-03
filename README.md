@@ -50,10 +50,13 @@ The session consisted of the following steps:
 - Find my observation notes [here](https://docs.google.com/document/d/1CeMtqomFWx3wJ_Ng632yY8wiZsL7HT6QaOLd5VK8wD8/edit)
 - Interesting insights from the interview:
 
-##### How do you decide if you have found what you are looking for?
+#### [13:32] How did you decide on which keywords to use when searching up topics?
+> I thought I should be as simple as possible. I want to be as concise as I can, either by using very simple words, or by using more complicated words so that that’s less of a word count. Because I feel like the longer I search for like, the longer the phrase than the more vague answers I can get or off topic. It’s not as accurate.
+
+##### [16:16] How do you decide if you have found what you are looking for?
 > Right. Well, I guess in this specific search, I was curious why it was the way it was. And when I got that answer, I still was not completely satisfied. Because I was curious how [I could] connect to it coming back to me, like, how does this affect my life? You know what I mean? Like, although these kids in his high school thought of this term, and they use this term, what does that have anything to do with [me]? How come I know it and why am I searching for it right now? So like, I guess a personal connection is helpful for me to realize that that's when I kept searching and then found it and then that's what says.
 
-##### (After asking if there were any searches for information that they found themselves repeatedly doing all the time, responds by saying they used the translating app on Safari) Why would you use the translating app on Safari instead of using the translator app on your app?
+##### [22:45] (After asking if there were any searches for information that they found themselves repeatedly doing all the time, responds by saying they used the translating app on Safari) Why would you use the translating app on Safari instead of using the translator app on your app?
 > In my mind, it's easier. Because in an app, I guess I'm just lazy, I don't want to take the extra step and try to research an app that would be a good fit, that would be free, and that would have a nice interface. Whereas I can easily go on my phone and look on the internet. And it's fairly quick. And it's accessible, because I can do it on my phone and my laptop interchangeably. You know, I don't have to, like, have an app and then download an app on the other thing. 
 
 ### Step 06: Reflection
