@@ -1,5 +1,6 @@
 ## Contextual Inquiry
-*by Valentin Nguyen, Spring 2021*
+*Digital Humanities 110 - Assignment 03*
+*Valentin Nguyen, Spring 2021*
 
 ## Introductory Steps
 
